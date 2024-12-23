@@ -1,0 +1,16 @@
+*{
+    color: #333333;
+    text-align: center;
+}
+
+h2{
+    color: #0077ff;
+}
+
+body{
+    background-color: #f8f8f8;
+}
+
+body div:first-child{
+    margin-top: 50px;
+}
